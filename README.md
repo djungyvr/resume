@@ -31,10 +31,7 @@ Developed a personal website using the Django framework. Components include a da
 Locally is a project that hopes to allow our users to discover and maintain relationships with their farmer’s markets. Technologies used include AWS, Java, and XML.
 
 #### Machine Learning | Image Classification/NLP
-Developed a convolutional neural network in Python for image classification. Currently used on the CIFAR 10 image set.
-
-Developed Natural Language Processing projects for spam detection and a rating classifier system.
+Developed a convolutional neural network in Python for image classification trained on the CIFAR 10 image set. NLP projects for spam detection and a rating classifier system.
 
 #### Open Robotics UBC | Turtlebot
 Worked on implementing the TurtleBot as a training platform for ROS. Responsible for software development in Python and integrating with Kinect for mapping and navigation.
-
