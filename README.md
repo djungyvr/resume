@@ -4,12 +4,12 @@ djungyvr@gmail.com | 408-705-7346 | github.com/djungyvr | davidjung.co
 ## EDUCATION
 The University of British Columbia 
 BASc. in Computer Engineering 
-3rd year · Expected Graduation 2019
+3rd year May 2019
 
 ## SKILLS
 Languages: Python, Java, Golang, C#, SQL
-Tools: Docker, Vagrant, Ansible, Grafana, Prometheus, Git, Jenkins
 
+Tools: Docker, Vagrant, Ansible, Grafana, Prometheus, Git, Jenkins
 
 ## EXPERIENCE
 #### Tesla Inc. | Software Engineering Co-op | May 2017 - Dec 2017
